@@ -1,0 +1,17 @@
+,Data_Type,Missing_Count,Missing_Percentage,Unique_Values
+Date,str,0,0.0,391
+Time,str,0,0.0,24
+CO(GT),float64,1683,17.99,96
+PT08.S1(CO),float64,366,3.91,1041
+NMHC(GT),float64,8443,90.23,429
+C6H6(GT),float64,366,3.91,407
+PT08.S2(NMHC),float64,366,3.91,1245
+NOx(GT),float64,1639,17.52,925
+PT08.S3(NOx),float64,366,3.91,1221
+NO2(GT),float64,1642,17.55,283
+PT08.S4(NO2),float64,366,3.91,1603
+PT08.S5(O3),float64,366,3.91,1743
+T,float64,366,3.91,436
+RH,float64,366,3.91,753
+AH,float64,366,3.91,6683
+Timestamp,str,0,0.0,9357
